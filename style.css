@@ -1,0 +1,21 @@
+#canvas {
+	margin: 30px;
+	border: 1px solid lightgrey;
+}
+
+.blob{
+	display: block;
+	width: 60px;
+	height: 60px;
+}
+
+/*Colors*/
+.red{ fill: #F46290; }
+.yellow{ fill: #FCDD6E; }
+.blue{ fill: #9CD9FE; }
+.purple{ fill: #AC7DD9; }
+
+.red-light { fill: #FA9DC2; }
+.yellow-light { background: #FEEAAC; }
+.blue-light { background: #C5E8FF; }
+.purple-light { fill: #D4B3EE; }
